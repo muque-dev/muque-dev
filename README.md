@@ -1,25 +1,27 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=7F00FF&width=435&lines=Hey%2C+I+am+Ephemeral,+I+love+Coding!;Full-stack+Software+Developer;4%2B+Years+of+Coding+Experience;Always+learning+new+things+%3AD" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:000000&height=3" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=2500&color=7F00FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ephemeral+:D;Full-stack+Software+Developer;C%23+%7C+.NET+%7C+C%2B%2B+Developer;Passionate+about+Software+Architecture;Always+learning+new+things)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
-  <img alt="C++" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
-  <img alt="C#" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
-  <img alt=".NET" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />&nbsp;&nbsp;
-  <img alt="Git" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
-  <img alt="SQL" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
-  <img alt="HTML" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;&nbsp;
-  <img alt="CSS" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
-  <img alt="JavaScript" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;
-  <img alt="PHP" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
-  <img alt="Laravel" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />&nbsp;&nbsp;
-  <img alt="Unix" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />&nbsp;&nbsp;
-  <img alt="PostgreSQL" width="35px" style="padding:10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+![](https://github-readme-stats.vercel.app/api?username=dev-ephemeral&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=dev-ephemeral&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ephemeral&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+<div align="center">
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,js,php,laravel,html,css,mysql,postgresql" />
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+
 </div>
